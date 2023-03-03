@@ -1,8 +1,8 @@
-# Artificial Neural Network for CMSC 191
+# Artificial Neural Network using the Maternal Health Risk Dataset
 
 Author: Mark Adrian Layones
 
-This is the repository of the requirements for the CMSC 191.
+This is the repository of artificial neural network using the dataset of maternal health risk as the final requirement of certain course subject.
 
 ### Directory Structure
 
